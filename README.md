@@ -15,4 +15,6 @@ Pickr XS
 
 Bitfeed
 
-Bitfeed is an app I built by following a tutorial made by Swiftful Thinking. The app is built in SwiftUI using MVVM architecture, with an extra layer for handling networking. The app utilizes publishers and subscribers and uses the Combine framework. I also customized the UI according to my own preferences. For the networking, the app uses the CoinGecko API in order to fetch the information as JSON data which is then parsed and fed to the app.
+Bitfeed gives you the latest price of all cryptocurrencies and lets you create your own portfolio in which you can track your current holdings. The app was built by following a tutorial made by Swiftful Thinking where I customized parts of the UI to my own preference.
+
+Technologies utilized: SwiftUI, Combine, MVVM, Networking layer, Publishers and Subscribers, Previews
