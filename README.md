@@ -12,9 +12,10 @@ You can click the Preview link to take a look at your changes.
 Portfolio
 
 Pickr XS
+Technologies utilized: CoreData, SwiftUI, Combine, MVVM
 
 Bitfeed
 
 Bitfeed gives you the latest price of all cryptocurrencies and lets you create your own portfolio in which you can track your current holdings. The app was built by following a tutorial made by Swiftful Thinking where I customized parts of the UI to my own preference.
 
-Technologies utilized: SwiftUI, Combine, MVVM, Networking layer, Publishers and Subscribers, Previews
+Technologies utilized: SwiftUI, Combine, MVVM, Networking layer (URLSession), Previews, FileManager
